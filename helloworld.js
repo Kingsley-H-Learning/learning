@@ -55,4 +55,3 @@ console.log(Person.prototype);
 
 // inheriting the property from prototype
 console.log(person1.gender);
-console.log(person2.gender);
